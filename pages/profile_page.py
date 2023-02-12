@@ -1,0 +1,1 @@
+logOutBtn = "//button[text()='Выход']"
